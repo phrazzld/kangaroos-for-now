@@ -10,4 +10,4 @@ docker build -t phrazzld/kangaroos-for-now .
 docker run -p 8888:8888 phrazzld/kangaroos-for-now
 ```
 
-Note: if you're running *kangaroos-for-now* on a machine without GPUs, it's going to take a painfully long time to train your model. I run it on an [AWS EC2 Deep Learning AMI instance](https://aws.amazon.com/marketplace/pp/B077GCH38C)).
+Note: if you're running **kangaroos-for-now** on a machine without GPUs, it's going to take a painfully long time to train your model. I run it on an [AWS EC2 Deep Learning AMI instance](https://aws.amazon.com/marketplace/pp/B077GCH38C)).
